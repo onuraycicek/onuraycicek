@@ -1,6 +1,4 @@
-<div>
-  
-![I am the owner of Kozmonos](https://onuraycicek.com.tr/img/logo.svg)
+
 ### Hi there 👋, my name is Onur
 #### I am the owner of Kozmonos
   
@@ -10,8 +8,6 @@ Skills: VUE JS / NODE JS / JS / PHP / PYTHON / HTML / CSS
 - 🌱 I’m currently learning REACT JS 
 - 📫 How to reach me: onur.m.aycicek@gmail.com 
   
-  
-</div>
 
 
 
