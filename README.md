@@ -4,5 +4,5 @@
 Skills: VUE JS / NODE JS / JS / PHP / PYTHON / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning REACT JS 
+- 🌱 I’m currently learning REACT JS and Laravel
 - 📫 How to reach me: onur.m.aycicek@gmail.com 
