@@ -7,5 +7,3 @@ Skills: VUE JS / NODE JS / JS / LARAVEL / PHP / PYTHON / HTML / CSS
 - 🌱 I’m currently learning REACT JS
 - 📫 How to reach me: onur.m.aycicek@gmail.com 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=onuraycicek&theme=dark)
-
