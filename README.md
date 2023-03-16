@@ -2,7 +2,7 @@
 #### I am the owner of [@Kozmonos](https://github.com/Kozmonos), [@DoNotEffort](https://github.com/DoNotEffort) and [@world2space](https://github.com/world2space)
   
   
-<a href="https://app.daily.dev/onuraycicek"><img src="https://api.daily.dev/devcards/b74bf21c975345078488fcd844724323.png?r=yfw" width="400" alt="Onur's Dev Card"/></a>
+<a href="https://app.daily.dev/onuraycicek"><img src="./devcard.svg" width="400" alt="Onur's Dev Card"/></a>
   
 Skills: VUE JS / NODE JS / JS / LARAVEL / PHP / PYTHON / HTML / CSS
 
